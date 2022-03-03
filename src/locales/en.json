@@ -1,0 +1,19 @@
+{
+	"MESSAGE": "Hello world",
+	"validation": {
+		"MAIL_EXISTS": "E-Mail exists",
+		"\"authorization\" is required": "validation.\"authorization\" is required",
+		"\"Message\" must be of type object": "validation.\"Message\" must be of type object",
+		"\"sort\" must be of type object": "validation.\"sort\" must be of type object",
+		"\"limit\" must be less than or equal to 10": "validation.\"limit\" must be less than or equal to 10",
+		"\"password\" with value \"Test123!\" fails to match the required pattern": " /^[a-zA-Z0-9]{3,30}$/",
+		"\"_id\" with value \"5f88761b588816a5ef9c296\" fails to match the required pattern": " /^[0-9a-fA-F]{24}$/",
+		"\"_id\" with value \"5f88761b588816a5ef9c296\" fails to match the Cast object id pattern": "validation.\"_id\" with value \"5f88761b588816a5ef9c296\" fails to match the Cast object id pattern",
+		"\"_id\" with value \"5f88761b588816a5ef9c296\" fails to match the ObjectId pattern": "validation.\"_id\" with value \"5f88761b588816a5ef9c296\" fails to match the ObjectId pattern",
+		"\"_id\" with value \"36304262-24d9-4f58-9776-d1846214e778\" fails to match the ObjectId pattern": "validation.\"_id\" with value \"36304262-24d9-4f58-9776-d1846214e778\" fails to match the ObjectId pattern",
+		"Document not found": "validation.Document not found",
+		"\"_id\" with value \"5f9a94f7e5d7c6e6f54dcd8\" fails to match the ObjectId pattern": "validation.\"_id\" with value \"5f9a94f7e5d7c6e6f54dcd8\" fails to match the ObjectId pattern",
+		"\"_id\" with value \"5f9a94f7e5d7c6e6f54dcd823\" fails to match the ObjectId pattern": "validation.\"_id\" with value \"5f9a94f7e5d7c6e6f54dcd823\" fails to match the ObjectId pattern",
+		"\"password\" is required": "validation.\"password\" is required"
+	}
+}

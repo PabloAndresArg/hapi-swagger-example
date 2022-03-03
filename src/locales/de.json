@@ -1,0 +1,9 @@
+{
+	"MESSAGE": "Hallo Welt",
+	"validation": {
+		"MAIL_EXISTS": "E-Mail existiert bereits",
+		"\"password\" with value \"Test123!\" fails to match the required pattern": " /^[a-zA-Z0-9]{3,30}$/",
+		"\"password\" with value \"Melissa123!\" fails to match the required pattern": " /^[a-zA-Z0-9]{3,30}$/",
+		"\"password\" is required": "validation.\"password\" is required"
+	}
+}

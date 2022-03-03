@@ -1,0 +1,17 @@
+{
+    "env": {
+        "es2020": true,
+        "node": true
+    },
+    "extends": [
+        "google",
+        "plugin:@hapi/recommended"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 11,
+        "sourceType": "module"
+    },
+    "rules": {
+        "@hapi/scope-start": "off"
+    }
+}
